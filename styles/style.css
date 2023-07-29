@@ -1,0 +1,15 @@
+
+@media only screen and (max-width:576px) {
+    .top-banner{
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+    }
+    
+}
+@media only screen and (min-width:577px) and (max-width:768px) {
+    .top-banner{
+        flex-direction: column-reverse;
+    }
+    
+}
